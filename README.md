@@ -1,1 +1,1 @@
-# streamlined-spring-boot-dummy-app
+# Streamlined Spring Boot dummy app
