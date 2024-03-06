@@ -1,0 +1,1 @@
+# streamlined-spring-boot-dummy-app
